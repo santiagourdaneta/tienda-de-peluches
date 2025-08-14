@@ -1,0 +1,16 @@
+# Archivos de Node
+node_modules/
+npm-debug.log
+.DS_Store
+
+# Archivos de configuración y sensibles
+.env
+config.js
+/config/*.json
+
+# Archivos de log
+*.log
+
+# Archivos de la base de datos (si usas SQLite, por ejemplo)
+*.db
+*.sqlite
